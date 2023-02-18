@@ -295,6 +295,7 @@ th {
 .ji {
     max-height: 300px;
     overflow-y: auto;
+    overflow-x: hidden;
 }
 
 .ji::-webkit-scrollbar {
