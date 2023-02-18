@@ -279,7 +279,7 @@ th {
     font-family: 'Sigmar One', cursive;
     background-color: #811331;
     color: #fff;
-    font-size: 40px;
+
 }
 
 /* Styles for the Ji table */
@@ -292,6 +292,25 @@ th {
     background-color: #811331;
 }
 
+.ji {
+    max-height: 300px;
+    overflow-y: auto;
+}
+
+.ji::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+.ji::-webkit-scrollbar-thumb {
+    background-color: #811331;
+    border-radius: 8px;
+}
+
+.ji::-webkit-scrollbar-track {
+    background-color: #f2f2f2;
+    border-radius: 8px;
+}
 /* Styles for the notification image */
 .notification_img {
     width: 50px;
