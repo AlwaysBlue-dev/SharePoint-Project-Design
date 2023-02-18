@@ -64,7 +64,7 @@ body {
 /* Add a border to each menu item */
 .menu li {
     border-bottom: 1px solid #ddd;
-    font-size: 18px;
+    font-size: 12px;
 }
 
 /* Remove border from last menu item */
