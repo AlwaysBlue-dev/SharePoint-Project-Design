@@ -24,6 +24,16 @@ body {
     font-family: 'Limelight', cursive;
     font-size: 40px;
     transition: all 0.2s ease-in-out;
+    margin-left: 40%;
+}
+.head_title2 {
+    color: #fff;
+    font-size: 20px;
+    transition: all 0.2s ease-in-out;
+ 
+}
+.search{
+    width: 90px;
 }
 
 /* Create a container for page content */
@@ -160,6 +170,10 @@ body {
         height: 50px;
         margin-right: 10px;
     }
+    .head_title{
+        margin-left: 10px;
+    }
+   
 }
 
 /* Styles for the hamburger menu */
