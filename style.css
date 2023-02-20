@@ -236,7 +236,7 @@ body {
 
 /* Styles for the table of standings */
 .table_standing {
-    height: 430px;
+    height: 380px;
     overflow-y: scroll;
 }
 
