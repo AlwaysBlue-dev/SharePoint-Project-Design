@@ -236,7 +236,7 @@ body {
 
 /* Styles for the table of standings */
 .table_standing {
-    height: 303px;
+    height: 430px;
     overflow-y: scroll;
 }
 
@@ -286,6 +286,9 @@ th {
 /* Styles for the standing data */
 .standing_data {
     color: #fff;
+}
+.table-img{
+    width: 100%;
 }
 
 /* Styles for the Ji text */
